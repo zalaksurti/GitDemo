@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class practice1 {
 	@Test
-	public void demo()
+	public void demonew()
 	{
 		System.out.println("hello new test code");
 	}

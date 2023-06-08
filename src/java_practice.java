@@ -3,12 +3,12 @@ public class java_practice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int mynum = 5; 
+		int mynum = 6; 
 		String web = "new practice";
-		char letter = 'Z';
+		char letter = 'p';
 		boolean mytest = true;
 		double dec = 5.33;
-		System.out.println("this is my value for practice :" + mynum + web + letter);
+		System.out.println(" value for practice :" + mynum + web + letter);
 	}
 
 }
