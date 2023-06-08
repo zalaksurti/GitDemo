@@ -7,7 +7,7 @@ public class Practice2 {
 	@Test
 	public void demo()
 	{
-		System.out.println("Bee");
+		System.out.println("new user test");
 	}
 
 }
